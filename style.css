@@ -1,0 +1,42 @@
+.container{
+    width: 290px;
+    height: 290px;
+    border: 2px solid black;
+}
+
+.top{
+    color: white;
+    margin: 10px;
+    
+}
+input{
+    width: 260px;
+    height: 50px;
+}
+.left{
+    display: block;
+}
+.left1,.left2,.left3,.left4{
+    display: flex;
+
+}
+#box{
+    margin: 10px;
+}
+button{
+    width: 50px;
+    height: 30px;
+}
+#op{
+    width: 50px;
+    height: 30px;
+    margin: 10px;
+}
+#ac button{
+    width: 50px;
+    height: 30px;
+    background-color: red;
+    margin: 10px;
+}
+
+
